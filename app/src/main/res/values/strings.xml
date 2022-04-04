@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="first_name">First name</string>
+    <string name="email_address">Email Address</string>
+    <string name="register">Roll</string>
+    <string name="last_name">Last Name</string>
+</resources>
